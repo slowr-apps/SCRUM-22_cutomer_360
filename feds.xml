@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<StaticDatasetMetadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" author="dilip" frequency="Daily" name="ABC_COMPLAINTS_360" source="SLOWR" xsi:noNamespaceSchemaLocation="static_dataset_metadata.xsd">
+    <keys>
+        <field index="1" name="custid"/>
+        <field index="2" name="seg"/>
+    </keys>
+    <variables>
+        <field index="1" name="tpv_30days"/>
+        <field index="2" name="tpv_90days"/>
+        <field index="3" name="region"/>
+        <field index="4" name="var4"/>
+        <field index="5" name="finalvar"/>
+    </variables>
+</StaticDatasetMetadata>
